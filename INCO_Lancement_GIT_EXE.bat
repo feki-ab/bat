@@ -19,3 +19,5 @@ c:
 
 cd %currentpath%
 INCO.exe /ts:INCO.rxtst /rf:%PathSaveReport%\Report_%Environnement%_%%S_%%Y%%M%%D_%%T.html
+
+
